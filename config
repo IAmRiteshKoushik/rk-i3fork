@@ -194,7 +194,7 @@ bar {
 # =======
 
 # wallpaper
-# exec --no-startup-id feh --bg-fill ~/Pictures/noir.jpg
+exec --no-startup-id feh --bg-fill $HOME/Pictures/walls/arch-logo.png
 
 # -- Adding Gaps to i3wm
 # Inner gaps for all windows: space between two adjacent windows (or split containers)
